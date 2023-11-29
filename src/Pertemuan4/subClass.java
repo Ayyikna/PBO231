@@ -14,6 +14,7 @@ public class subClass extends superClass{
 
     //getter
 
+
     public int getUsia() {
         return usia;
     }
